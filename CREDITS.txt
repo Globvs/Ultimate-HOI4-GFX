@@ -1,9 +1,11 @@
-The following people or websites have contributed to Ultimate HOI4 GFX
-	1: The HOI4 GFX Modding Database has provided focus parts, idea parts, minister templates, and flag templates (https://drive.google.com/drive/folders/1gUc1gJFzJAXow_bZhhkRz4_rN7_Jze3O?usp=sharing)
-	2: ThePinkPanzer has provided focus parts and idea parts.
-	3: Brammeke has provided smart objects for Adobe Photoshop.
-	4: CALI by Pacifica has provided idea icons. 
-	5: Thanks to That Guy Called Curly for many idea parts.
-	6: Deathlinger has made national spirit backgrounds and some focus pieces
-	7: Edouard Saladier has designed many focus backgrounds
-	8: Some of the templates were designed by me.
+The following people or websites have contributed to Ultimate HOI4 GFX, all with consent, and all free to use:
+	1: Many of the templates were designed by me.
+	2: The HOI4 GFX Modding Database has provided focus parts, idea parts, minister templates, and flag templates (https://drive.google.com/drive/folders/1gUc1gJFzJAXow_bZhhkRz4_rN7_Jze3O?usp=sharing)
+	3: ThePinkPanzer has provided focus parts and idea parts.
+	4: Gunnar von Pontius has provided smart objects for Adobe Photoshop.
+	5: Pacifica has provided a lot of idea icons. 
+	6: Thanks to That Guy Called Curly for many idea parts.
+	7: Deathlinger has made national spirit backgrounds and some focus pieces.
+	8: Edouard_Saladier has designed many focus backgrounds and icons.
+	9: scarecroww has made some smart objects for focus pieces.
+	10: joshyflip has designed smart objects and focus pieces.
