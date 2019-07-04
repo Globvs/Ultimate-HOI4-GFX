@@ -9,3 +9,4 @@ The following people or websites have contributed to Ultimate HOI4 GFX, all with
 	8: Edouard_Saladier has designed many focus backgrounds and icons.
 	9: scarecroww has made some smart objects for focus pieces.
 	10: joshyflip has designed smart objects and focus pieces.
+	11: Indycyclone77 has provided focus icon pieces.
