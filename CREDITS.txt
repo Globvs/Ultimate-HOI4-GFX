@@ -11,3 +11,4 @@ The following people or websites have contributed to Ultimate HOI4 GFX, all with
 	10: joshyflip has designed smart objects and focus pieces.
 	11: Indycyclone77 has provided focus icon pieces.
 	12: grestin has provided focus icon pieces.
+	13: AtomicSoviet has provided focus icon pieces, courtesy of The New Order.
